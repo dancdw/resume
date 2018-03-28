@@ -6,7 +6,7 @@
 * 手机：13417592837
 * 邮箱：danweichen11@gmail.com
 * Github：https://github.com/dancdw
-* 博客：http://www.jianshu.com/u/0cb2cbbc7385
+* 博客：http://www.jianshu.com/u/0cb2cbbc738
 
 ### 技能清单
 
