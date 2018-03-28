@@ -12,7 +12,7 @@
 
 * 热爱前端，喜欢用最扎实的基础做出效果最炫代码合理的页面。
 * 熟悉 html、css 能够兼容主流各种浏览器。
-* 熟悉 dom、event、ajax、jsonp，能够编写 js 原生代码。
+* 熟悉 dom、event、ajax、jsonp 能够编写 js 原生代码。
 * 熟悉 Angular、React、Vue、MINA 等框架，熟练使用 grunt、glup、webpack 工程化工具。
 * 熟练使用 svn、git 等版本控制工具。
 * 熟练使用 firebug、chrome 调试工作调试代码，并能够进一步进行优化。
